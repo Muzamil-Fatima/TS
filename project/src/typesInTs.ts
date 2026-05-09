@@ -9,3 +9,6 @@ let chaiFlavors:string = "Masala Chai";
 chaiFlavors = "Ginger Tea";
 
 let chai0rder:boolean
+
+// inference means automatically 
+//  annotation you can tell the type
